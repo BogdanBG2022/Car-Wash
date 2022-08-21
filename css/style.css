@@ -1,0 +1,23 @@
+body{
+    background-color: #f9f9f9;
+}
+.wrapper{
+    width: 200px;
+}
+.menu{
+    background-color: #fff;
+}
+.text button{
+    background-color: #0b416d;
+    color: #fafafa;
+    font-size: 20px;
+    width: 250px;
+    height: 80px;
+}
+.text button:hover{
+    background-color: #242424;
+}
+.text img{
+    width: 500px;
+    height: 350px;
+}
